@@ -1,0 +1,86 @@
+11/17/2015 50%
+
+1. 2.23
+2. 2.16  - hooked at factory, not returned to base center
+3. 2.16  - human not delivered, octopus on in center
+4. 2.23l - toilet taken rough
+5. 2.17k
+6. 1.49l - did not fine line in run 2
+7. 2.24l
+8. 1.53k - did not fine line in run 2
+9. 2.20k - hooked at factory, not returned to base center
+10. 2.28l
+
+
+11/18/2015 80%
+
+1. 2.18l
+2. 1.17k
+3. 2.16l
+4. 2.23k
+5. 2.17l did not bring 1st plastic bag - too much to the left - corrected
+
+
+11/18/2015 70%
+
+1. 2.25l
+2. 2.20k
+3. l
+4. k - did not find main in run2
+5. 2.22 l
+6. 2.22k
+7. 2.24l - did not take 2nd bag
+8. 2.21k
+9. 2.29l did not get plane - did not drop far enough
+10 2.23k
+
+
+11/19/2015
+
+1. l - 
+2. k - did not find line
+3. l - did non find line - no values for sensors
+4. l - did non find line - no values for sensors
+
+1. l 2,17
+2. k 2.19
+3. l 2.18
+4. k 2.21
+5. l 2.19
+6. k 2.22
+7. l 2.20
+8. k 2.21
+9. l 2.20
+10. k 2.23
+
+
+2016-01-11
+
+1. k 2.29
+1. l 2.23
+2. k 2.23
+3. l 2.25
+4. k 2.25 turtle moved out of circle when moving from composter
+5. 
+ 
+2016-01-12
+
+1. l bad alignment - missed turtle, compost and scrap car
+2. k 2.25
+3. l 2.23
+4. k 2.27
+5. l 2.22
+6. k 2.26
+7. l 2.20
+8. k 2.25
+9. l 2.23 human not in sorter area
+10 k 2.28 small time reserve for compost catching
+
+
+2016-01-14
+
+1. k 2.22
+2. l 2.20
+3. k 2.21
+4. l 2.18
+5. 
